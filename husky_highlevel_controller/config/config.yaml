@@ -1,0 +1,4 @@
+husky_controller:
+  topic: /scan
+  queue_size: 1
+  control_gain: 0.5
